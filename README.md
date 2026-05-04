@@ -1,7 +1,7 @@
 # Hi there, I'm Gustavo Molinas 👋
 
+<img src="data2.gif" width="350" align="right" />
 I am a Computer Science student at **Facultad Politécnica - Universidad Nacional de Asunción (FPUNA)**. I enjoy solving complex problems through low-level programming and data management.
-
 ---
 
 ### 🎓 Education
